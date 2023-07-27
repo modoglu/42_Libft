@@ -1,13 +1,9 @@
-# 42_Libft  
+# 42_Libft  📚
 <br>
 <i>Ecole 42 first project</i>
 
-## Key Words
-[`Makefile`](Makefile)<br>
-[`francinette`](francinette)<br>
-[`Header`](Header)<br>
 
-# Libft Functions
+## Libft Functions
 
 ### Functions from `<ctype.h>`
 
@@ -65,8 +61,25 @@
 - [`ft_lstmap`](ft_lstmap.c)	- applies a function to each element of a list.
 
 
+## Key Words 🔐
 
-## Resource for Libft
+[`Makefile`](Makefile)<br>
+[`Header`](Header)<br>
 
-https://www.asidesigned.com/project-libft.html 
+
+## Testers 🧪
+
+[`francinette`](francinette)<br>
+- You can check it out from the test repository on my github
+
+
+
+### Resource for Libft
+
+1- Man for ➡️ https://man7.org/linux/man-pages/man1/man.1.html <br>
+2- Makefile for ➡️ https://makefiletutorial.com/  <br>
+3- Memory for ➡️ https://www.geeksforgeeks.org/memory-layout-of-c-program/ <br>
+4- Static Functions ➡️ https://www.geeksforgeeks.org/what-are-static-functions-in-c/ <br>
+5- File Descriptor ➡️ https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+
 
