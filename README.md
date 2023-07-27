@@ -74,7 +74,7 @@
 
 
 
-### Resource for Libft
+### 🔭 Resource for Libft
 
 1- Man for ➡️ https://man7.org/linux/man-pages/man1/man.1.html <br>
 2- Makefile for ➡️ https://makefiletutorial.com/  <br>
