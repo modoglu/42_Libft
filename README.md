@@ -82,4 +82,4 @@
 4- Static Functions ➡️ https://www.geeksforgeeks.org/what-are-static-functions-in-c/ <br>
 5- File Descriptor ➡️ https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
 
-
+🌞 There are many resources I use, don't settle for them.
